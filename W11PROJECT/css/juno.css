@@ -1,0 +1,48 @@
+.navtop{
+    text-align: center;
+    padding: 20px 0;
+    margin: 10px 0 0;
+    font-size: 20px;
+    font-family: arial,helvetica,sans-serif;
+}
+
+
+nav {
+    overflow: hidden;
+    background-color: #333333;
+}
+
+nav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+a:hover {
+    background-color: #ddd;
+    color: black;
+}
+.nav2{font-size: small;}
+
+
+h1{font-family: helvetica,sans-serif;
+    font-size: 40px;
+    border-bottom:  3px solid black;
+    background-color: white;
+
+}
+
+footer{font-size: small;}
+
+p{font-size: 15px;
+font-family: helvetica,arial, sans-serif;}
+
+textarea{ width:35%;height:90px;padding:2%;
+    font-family: helvetica,sans-serif;
+    font-size: 14px;
+}
+button{font-size: 14px;border:1px solid black;background-color:white;color:black;}
+
